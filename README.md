@@ -6,10 +6,12 @@
 I bring experience in **product analytics, customer insights, and fraud risk analysis**, delivering **end-to-end analytical solutions** — from data extraction and cleaning to interactive visual dashboards and executive reporting.
 
 ---
+
 ## 🧰 Technical Skills & Tools
 
 ### Data Analysis & Programming
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="30"/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
