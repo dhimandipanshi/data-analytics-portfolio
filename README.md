@@ -6,21 +6,29 @@
 I bring experience in **product analytics, customer insights, and fraud risk analysis**, delivering **end-to-end analytical solutions** — from data extraction and cleaning to interactive visual dashboards and executive reporting.
 
 ---
-
 ## 🧰 Technical Skills & Tools
 
 ### Data Analysis & Programming
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Data Visualization & BI
+**SQL** — Complex queries, window functions, CTEs, subqueries, query optimization, data validation  
+**Python** — pandas, NumPy, matplotlib, seaborn, scikit-learn for data manipulation and visualization  
+**Excel** — Advanced formulas, pivot tables, Power Query, data modeling, financial analysis
+
+### Data Visualization & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Version Control
+**Power BI** — DAX calculations, Power Query transformations, automated reporting, stakeholder dashboards  
+**Tableau** — Calculated fields, parameters, interactive filters, drill-down visualizations
+
+### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Git & GitHub** — Version control, code collaboration, project documentation, portfolio hosting
 
 ---
 
