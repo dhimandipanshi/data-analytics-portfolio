@@ -1,96 +1,98 @@
 # 📊 Data Analytics Portfolio  
 ## Dipanshi Dhiman
 
-👋 Hi, I’m **Dipanshi Dhiman**, a **Data Analyst based in Canada**.  
-I specialize in transforming complex datasets into **clear insights that drive business decisions**, with hands-on experience across **product analytics, customer behavior, and fraud risk analysis**.
+👋 Hi, I’m **Dipanshi Dhiman**, a **Data Analyst based in Canada**, focused on turning complex datasets into **clear, actionable insights that support real business decisions**.
 
-My work demonstrates **end-to-end analytics workflows** — from data cleaning and SQL analysis to stakeholder-ready dashboards.
+I bring hands-on experience across **product analytics, customer analytics, and fraud risk analysis**, delivering **end-to-end analytical solutions** — from data cleaning and SQL analysis to executive-ready dashboards.
 
 ---
 
 ## 🧰 Technical Skills & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Tableau_logo.svg" width="80" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</p>
+### Data Analysis & Programming
+![SQL](https://img.shields.io/badge/SQL-Data_Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Core Tools**
-- **SQL** – Data querying, analysis, and validation  
-- **Python** – Data cleaning, EDA, feature engineering  
-- **Power BI** – Interactive dashboards & business reporting  
-- **Tableau** – Funnel analysis & stakeholder visualizations  
-- **Excel** – Data validation, quick analysis, reporting  
+### Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Project_Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🎯 Analytics Focus Areas
-- 🔁 **Product & Funnel Analytics** – Conversion, activation, drop-off analysis  
-- 👥 **Customer Analytics** – Segmentation, retention, revenue drivers  
-- 🚨 **Risk & Fraud Analytics** – Trend analysis, loss quantification, risk insights  
+- 🔁 **Product & Funnel Analytics**  
+  Conversion analysis, activation metrics, drop-off diagnostics  
+
+- 👥 **Customer Analytics**  
+  Segmentation, retention analysis, revenue drivers  
+
+- 🚨 **Risk & Fraud Analytics**  
+  Trend analysis, financial loss quantification, risk insights  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔁 Funnel Analysis – User Onboarding  
-**Objective:** Analyze user progression from signup to first transaction and identify conversion bottlenecks.  
+**Objective:** Analyze user progression from signup to first transaction and identify conversion bottlenecks impacting activation.
 
-**Highlights**
+**Key Impact**
 - Analyzed a **12,000+ user onboarding funnel**
-- Identified a **~40% signup-to-transaction conversion rate**
-- Pinpointed **post-KYC drop-off** as the primary activation bottleneck
-- Built an interactive **Tableau dashboard** for funnel exploration  
+- Measured **~40% signup-to-transaction conversion**
+- Identified **post-KYC drop-off** as the primary activation bottleneck
+- Built an interactive **Tableau dashboard** to support product decisions
 
 🔗 **Repository:**  
-👉 https://github.com/dhimandipanshi/Funnel_Analysis  
+👉 https://github.com/dhimandipanshi/Funnel_Analysis
 
 ---
 
 ### 🚨 Cyber Fraud Analysis – Canada (2021–2025)  
-**Objective:** Identify fraud trends and quantify financial impact across Canada.  
+**Objective:** Identify cyber fraud trends and quantify financial risk across Canada.
 
-**Highlights**
-- Analyzed **295,000+ reported fraud cases**
-- Visualized **$637M+ in total losses**
-- Identified **investment scams** as the highest-loss category
-- Built a **Power BI dashboard** highlighting regional and demographic risk  
+**Key Impact**
+- Analyzed **295,000+ reported fraud incidents**
+- Visualized **$637M+ in total financial losses**
+- Identified **investment scams** as the highest-loss fraud category
+- Built a **Power BI dashboard** highlighting regional and demographic risk patterns
 
 🔗 **Repository:**  
-👉 https://github.com/dhimandipanshi/Cyber-fraud-Analysis  
+👉 https://github.com/dhimandipanshi/Cyber-fraud-Analysis
 
 ---
 
 ### 👥 Customer Behavior Analysis – Retail (H&M)  
-**Objective:** Understand customer purchasing behavior and revenue drivers.  
+**Objective:** Understand customer purchasing behavior and key revenue drivers in a retail environment.
 
-**Highlights**
-- Analyzed **1,000 retail transactions**
-- Segmented customers by **age, gender, location, and subscription**
-- Compared **subscriber vs non-subscriber revenue**
-- Built SQL-driven insights and a **Power BI dashboard** for decision-making  
+**Key Impact**
+- Analyzed **1,000 real-world retail transactions**
+- Segmented customers by **age, gender, location, and subscription status**
+- Compared **subscriber vs non-subscriber revenue performance**
+- Built SQL-driven insights and a **Power BI dashboard** for stakeholder analysis
 
 🔗 **Repository:**  
-👉 https://github.com/dhimandipanshi/HM_CustomerAnalysis  
+👉 https://github.com/dhimandipanshi/HM_CustomerAnalysis
 
 ---
 
 ## 📈 What This Portfolio Demonstrates
-- Strong **SQL fundamentals** and analytical thinking  
-- Ability to translate data into **business-focused insights**  
-- Experience working across **multiple domains**, not just one dataset  
-- Clean, well-documented, and recruiter-friendly GitHub projects  
+- Strong **SQL and analytical fundamentals**
+- Ability to translate data into **business-relevant insights**
+- Experience across **multiple analytical domains**
+- Clean, professional, and **recruiter-friendly project documentation**
+- Readiness for **entry-level to junior data analyst roles in Canada**
 
 ---
 
 ## 👩‍💻 About Me
 📍 **Toronto, Canada**  
 🎓 Diploma in Computer Programming  
-📊 Aspiring Data Analyst with a strong interest in **product analytics and risk analytics**
+📊 Aspiring Data Analyst with strong interest in **product analytics and risk analytics**
 
 📧 **Email:** dhimandipanshi713@gmail.com  
 🔗 **GitHub:** https://github.com/dhimandipanshi  
