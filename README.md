@@ -9,13 +9,13 @@ I bring experience in **product analytics, customer insights, and fraud risk ana
 
 ## 🧰 Technical Skills & Tools
 
-<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="30"/>
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="30"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="30"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="30"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" height="30"/>
-<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="30"/>
-<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40" style="margin-right: 12px;"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" style="margin-right: 12px;"/>
+<img src="https://cdn.simpleicons.org/excel/217346" alt="Excel" height="40" style="margin-right: 12px;"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="40" style="margin-right: 12px;"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" height="40" style="margin-right: 12px;"/>
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" style="margin-right: 12px;"/>
+<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="40"/>
 
 ---
 
