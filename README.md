@@ -9,18 +9,21 @@ I specialize in **Product Analytics, Customer Insights, and Risk Analysis**, del
 
 ## 🧰 Technical Toolbox
 
-### **Languages & Databases**
-<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="50" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="50" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="50" />
-</div>
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="60" />
 
-### **Visualization & Business Intelligence**
-<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="50" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" height="50" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="50" />
+  <img src="icon/P.jpg" alt="Python" height="60" />
+
+  <img src="icon/EXCEL.jpg" alt="Excel" height="60" />
+
+  <img src="icon/POWER.jpg" alt="Power BI" height="60" />
+
+  <img src="icon/T.png" alt="Tableua" height="60" />
+
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="60" />
+
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="60" />
+
 </div>
 
 ---
