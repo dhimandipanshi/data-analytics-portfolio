@@ -9,27 +9,13 @@ I bring experience in **product analytics, customer insights, and fraud risk ana
 
 ## 🧰 Technical Skills & Tools
 
-### Data Analysis & Programming
 <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="30"/>
 <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="30"/>
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="30"/>
-
-**SQL** — Complex queries, window functions, CTEs, subqueries, query optimization, data validation  
-**Python** — pandas, NumPy, matplotlib, seaborn, scikit-learn for data manipulation and visualization  
-**Excel** — Advanced formulas, pivot tables, Power Query, data modeling, financial analysis
-
-### Data Visualization & Business Intelligence
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="30"/>
 <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" height="30"/>
-
-**Power BI** — DAX calculations, Power Query transformations, automated reporting, stakeholder dashboards  
-**Tableau** — Calculated fields, parameters, interactive filters, drill-down visualizations
-
-### Version Control & Collaboration
 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="30"/>
 <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30"/>
-
-**Git & GitHub** — Version control, code collaboration, project documentation, portfolio hosting
 
 ---
 
