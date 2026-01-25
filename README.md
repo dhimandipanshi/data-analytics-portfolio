@@ -11,7 +11,6 @@ I bring experience in **product analytics, customer insights, and fraud risk ana
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="60" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="60" />
   <img src="icon/P.jpg" alt="Python" height="60" />
   <img src="icon/EXCEL.jpg" alt="Excel" height="60" />
   <img src="icon/POWER.jpg" alt="Power BI" height="60" />
