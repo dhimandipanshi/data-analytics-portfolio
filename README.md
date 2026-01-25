@@ -1,62 +1,55 @@
 # 📊 Data Analytics Portfolio  
 ## Dipanshi Dhiman
 
-👋 Hi, I’m **Dipanshi Dhiman**, a **Data Analyst based in Canada**, passionate about transforming complex datasets into **data-driven insights that fuel smarter business decisions**.
+👋 Hi, I’m **Dipanshi Dhiman**, a **Data Analyst based in Toronto**, dedicated to transforming complex datasets into **clear, actionable stories that drive business growth.**
 
-I bring experience in **product analytics, customer insights, and fraud risk analysis**, delivering **end-to-end analytical solutions** — from data extraction and cleaning to interactive visual dashboards and executive reporting.
+I specialize in **Product Analytics, Customer Insights, and Risk Analysis**, delivering end-to-end solutions—from scalable SQL data extraction to executive-ready Power BI/Tableau dashboards.
 
 ---
 
-## 🧰 Technical Skills & Tools
+## 🧰 Technical Toolbox
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="60" />
-  <img src="icon/P.jpg" alt="Python" height="60" />
-  <img src="icon/EXCEL.jpg" alt="Excel" height="60" />
-  <img src="icon/POWER.jpg" alt="Power BI" height="60" />
-  <img src="icon/T.png" alt="Tableua" height="60" />
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="60" />
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="60" />
+### **Languages & Databases**
+<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="50" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="50" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="50" />
+</div>
+
+### **Visualization & Business Intelligence**
+<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="50" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" height="50" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" height="50" />
 </div>
 
 ---
 
 ## 🎯 Analytics Focus Areas
-- 🔁 **Product & Funnel Analytics** — Conversion metrics, activation analysis, growth KPIs  
-- 👥 **Customer Analytics** — Segmentation, retention, and revenue optimization  
-- 🚨 **Risk & Fraud Analytics** — Pattern detection, financial loss quantification, risk insights  
+- 🔁 **Product & Funnel Analytics** — Optimizing conversion metrics and user activation KPIs.
+- 👥 **Customer Analytics** — Segmenting behaviors to drive retention and revenue growth.
+- 🚨 **Risk & Fraud Analytics** — Quantifying financial loss and detecting high-risk patterns.
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Domain | Tools | Key Highlights |
-|----------|---------|--------|----------------|
-| [**User Onboarding Funnel Analysis**](https://github.com/dhimandipanshi/Funnel_Analysis) | Product Analytics | SQL, Tableau | Conversion analysis across 12K+ users → Identified key activation drop-offs |
-| [**Cyber Fraud Analysis (Canada 2021–2025)**](https://github.com/dhimandipanshi/Cyber-fraud-Analysis) | Risk Analytics | Power BI, Excel | Analyzed 295K+ fraud cases → Visualized $637M+ in losses, identified top fraud types |
-| [**Customer Behavior Analysis – H&M Retail**](https://github.com/dhimandipanshi/HM_CustomerAnalysis) | Customer Analytics | SQL, Power BI | Segmented 1,000 transactions → Compared subscriber vs non-subscriber revenue |
+| :--- | :--- | :--- | :--- |
+| [**User Onboarding Analysis**](https://github.com/dhimandipanshi/Funnel_Analysis) | Product | SQL, Tableau | Analyzed 12K+ users to identify critical drop-off points in the activation funnel. |
+| [**Cyber Fraud (Canada 2021–25)**](https://github.com/dhimandipanshi/Cyber-fraud-Analysis) | Risk | Power BI, Excel | Visualized $637M+ in losses across 295K cases to identify top national fraud trends. |
+| [**H&M Customer Behavior**](https://github.com/dhimandipanshi/HM_CustomerAnalysis) | Retail | SQL, Power BI | Compared subscriber vs. non-subscriber revenue across 1,000+ transactions. |
 
 ---
 
-## 📈 Portfolio Highlights
-- Strong **SQL and data storytelling** abilities  
-- Skilled in **building executive-ready dashboards** in Tableau & Power BI  
-- End-to-end project execution: data extraction → analysis → visualization → reporting  
-- Demonstrated **real-world use cases** across multiple analytics domains  
-- Ready for **data analyst roles within Canada**
+## 📈 Professional Strengths
+* **Data Storytelling:** Translating technical findings into "so-what" insights for stakeholders.
+* **Data Quality:** Building scalable cleaning workflows to ensure 95%+ data accuracy.
+* **Strategic Thinking:** Defining KPIs that align with actual Canadian business objectives.
 
 ---
 
-## 👩‍💻 About Me  
-
-📍 **Toronto, Canada**  
-🎓 **Diploma in Computer Programming**  
-💡 Passionate about **Product Analytics**, **Risk Analytics**, and **Business Intelligence Storytelling**  
-
-🔗 **GitHub:** [github.com/dhimandipanshi](https://github.com/dhimandipanshi)  
-📧 **Email:** [dhimandipanshi713@gmail.com](mailto:dhimandipanshi713@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/dipanshidhiman](https://www.linkedin.com/in/dipanshidhiman)  
-
----
+## 👩‍💻 Let's Connect
+📍 **Toronto, ON** | 📧 [dhimandipanshi713@gmail.com](mailto:dhimandipanshi713@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/dipanshidhiman)
 
 > *Turning data into decisions — one insight at a time.*
