@@ -9,7 +9,7 @@ I bring experience in **product analytics, customer insights, and fraud risk ana
 
 ## 🧰 Technical Skills & Tools
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="60" />
   <img src="icon/P.jpg" alt="Python" height="60" />
   <img src="icon/EXCEL.jpg" alt="Excel" height="60" />
