@@ -1,7 +1,7 @@
 # 📊 Data Analytics Portfolio
 ## Dipanshi Dhiman — Data Analyst | Toronto, ON
 
-👋 Hi, I'm **Dipanshi Dhiman**, a **Data Analyst based in Toronto** who transforms complex, large-scale datasets into **clear, executive-ready insights that drive measurable business decisions.**
+👋 Hi, I'm **Dipanshi Dhiman**, a **Data Analyst ** who transforms complex, large-scale datasets into **clear, executive-ready insights that drive measurable business decisions.**
 
 I specialize in **Product Analytics, Customer Insights, and Risk Analysis** — delivering end-to-end analytical solutions from scalable SQL pipelines and ETL workflows to interactive Power BI and Tableau dashboards. My work spans **295K+ records, 1M+ event logs, and $637M+ in analyzed financial exposure.**
 
@@ -35,16 +35,6 @@ I specialize in **Product Analytics, Customer Insights, and Risk Analysis** — 
 
 ---
 
-## 🎯 Analytics Focus Areas
-
-| Domain | What I Do |
-|--------|-----------|
-| 🔁 **Product & Funnel Analytics** | Map user journeys, isolate drop-off points, and deliver activation strategies that improve conversion |
-| 👥 **Customer Analytics** | Segment spending behaviour, identify high-value cohorts, and uncover revenue growth opportunities |
-| 🚨 **Risk & Fraud Analytics** | Quantify financial exposure, detect high-risk patterns, and build audit-ready reporting for compliance teams |
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔁 Onboarding Funnel Analysis
@@ -55,7 +45,7 @@ I specialize in **Product Analytics, Customer Insights, and Risk Analysis** — 
 - Reframed the business problem from *"low signups"* to *"broken activation flow"* — enabling teams to redirect resources to highest-impact fixes
 - Built Tableau dashboard tracking **10+ KPIs** (conversion, drop-off, time-to-conversion), eliminating **40% of manual reporting** (~15 hrs/week)
 
-🔗 [View Project on GitHub](https://github.com/dhimandipanshi/Funnel_Analysis)
+🔗 [View Project on GitHub](https://github.com/dhimandipanshi/Onboarding_Funnel_Analysis)
 
 ---
 
@@ -67,7 +57,7 @@ I specialize in **Product Analytics, Customer Insights, and Risk Analysis** — 
 - Architected Power BI dashboards visualizing **$637M+ in reported losses** — identifying top fraud typologies, highest-risk demographics, and vulnerable regions
 - Delivered findings as a business case narrative, shifting prevention teams from **reactive reporting to proactive decision-making**
 
-🔗 [View Project on GitHub](https://github.com/dhimandipanshi/Cyber-fraud-Analysis)
+🔗 [View Project on GitHub](https://github.com/dhimandipanshi/CyberFraud_Analysis)
 
 ---
 
@@ -79,7 +69,7 @@ I specialize in **Product Analytics, Customer Insights, and Risk Analysis** — 
 - Identified top revenue-driving products and underperforming categories, framing findings as a **commercial opportunity narrative**
 - Deployed executive Power BI dashboard with automated refresh and KPI tracking — cutting analysis time by **40%**
 
-🔗 [View Project on GitHub](https://github.com/dhimandipanshi/HM_CustomerAnalysis)
+🔗 [View Project on GitHub](https://github.com/dhimandipanshi/Retail_Customer_Revenue_Analysis)
 
 ---
 
