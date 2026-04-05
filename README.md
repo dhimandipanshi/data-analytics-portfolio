@@ -27,9 +27,9 @@ I specialize in **Product Analytics, Customer Insights, and Risk Analysis** — 
 
 | Category | Skills |
 |----------|--------|
-| **Languages & Tools** | SQL (CTEs, Window Functions, Joins) • Python (Pandas, NumPy, Matplotlib, Seaborn) • Excel (Power Query, Pivot Tables) |
+| **Languages & Tools** | SQL • Python  • Excel  |
 | **BI & Visualization** | Power BI (DAX, Dashboards) • Tableau • Google Analytics GA4 • Looker Studio |
-| **Cloud & Databases** | Snowflake • BigQuery • Azure Synapse • AWS S3 • PostgreSQL • MySQL |
+| **Cloud & Databases** | Azure Synapse • MySQL |
 | **Technical** | ETL/ELT • Data Modeling • KPI Design • A/B Testing • Cohort & Funnel Analysis • Statistical Analysis |
 | **Soft Skills** | Data Storytelling • Stakeholder Communication • Business Acumen • Analytical Problem Solving |
 
